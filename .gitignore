@@ -1,0 +1,9 @@
+# Claude internal files
+.claude/
+
+# Temporary screenshots
+temporary screenshots/
+
+# Reference images (large files, not part of website)
+supertechdxb.com_ (1).png
+www.simalme.com_.png
